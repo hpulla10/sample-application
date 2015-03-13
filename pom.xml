@@ -18,5 +18,6 @@
   	<connection>scm:git:ssh://git@github.com:hpulla10/sample-application.git</connection>
 	<developerConnection>scm:git:ssh://git@github.com:hpulla10/sample-application.git</developerConnection>
 	<url>https://github.com/hpulla10/sample-application/tree/master</url>
+    
   </scm>
 </project>
